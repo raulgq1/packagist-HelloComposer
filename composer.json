@@ -1,0 +1,14 @@
+{
+    "name": "raulgq/hello-composer",
+    "description": "Testing",
+    "authors": [
+        {
+            "name": "raulgq",
+            "email": "raulgq@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+    },	
+    "require": {}
+}
